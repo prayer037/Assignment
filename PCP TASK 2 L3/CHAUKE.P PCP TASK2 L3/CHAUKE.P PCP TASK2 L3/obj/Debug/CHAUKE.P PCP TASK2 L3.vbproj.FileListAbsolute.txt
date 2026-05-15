@@ -1,0 +1,13 @@
+C:\Principles of Computer Programming\PCP TASK 2 L3\CHAUKE.P PCP TASK2 L3\CHAUKE.P PCP TASK2 L3\bin\Debug\CHAUKE.P PCP TASK2 L3.exe.config
+C:\Principles of Computer Programming\PCP TASK 2 L3\CHAUKE.P PCP TASK2 L3\CHAUKE.P PCP TASK2 L3\bin\Debug\CHAUKE.P PCP TASK2 L3.exe
+C:\Principles of Computer Programming\PCP TASK 2 L3\CHAUKE.P PCP TASK2 L3\CHAUKE.P PCP TASK2 L3\bin\Debug\CHAUKE.P PCP TASK2 L3.pdb
+C:\Principles of Computer Programming\PCP TASK 2 L3\CHAUKE.P PCP TASK2 L3\CHAUKE.P PCP TASK2 L3\bin\Debug\CHAUKE.P PCP TASK2 L3.xml
+C:\Principles of Computer Programming\PCP TASK 2 L3\CHAUKE.P PCP TASK2 L3\CHAUKE.P PCP TASK2 L3\obj\Debug\CHAUKE.P PCP TASK2 L3.vbproj.AssemblyReference.cache
+C:\Principles of Computer Programming\PCP TASK 2 L3\CHAUKE.P PCP TASK2 L3\CHAUKE.P PCP TASK2 L3\obj\Debug\CHAUKE.P_PCP_TASK2_L3.Form1.resources
+C:\Principles of Computer Programming\PCP TASK 2 L3\CHAUKE.P PCP TASK2 L3\CHAUKE.P PCP TASK2 L3\obj\Debug\CHAUKE.P_PCP_TASK2_L3.Resources.resources
+C:\Principles of Computer Programming\PCP TASK 2 L3\CHAUKE.P PCP TASK2 L3\CHAUKE.P PCP TASK2 L3\obj\Debug\CHAUKE.P PCP TASK2 L3.vbproj.GenerateResource.cache
+C:\Principles of Computer Programming\PCP TASK 2 L3\CHAUKE.P PCP TASK2 L3\CHAUKE.P PCP TASK2 L3\obj\Debug\CHAUKE.P PCP TASK2 L3.vbproj.CoreCompileInputs.cache
+C:\Principles of Computer Programming\PCP TASK 2 L3\CHAUKE.P PCP TASK2 L3\CHAUKE.P PCP TASK2 L3\obj\Debug\CHAUKE.P PCP TASK2 L3.exe
+C:\Principles of Computer Programming\PCP TASK 2 L3\CHAUKE.P PCP TASK2 L3\CHAUKE.P PCP TASK2 L3\obj\Debug\CHAUKE.P PCP TASK2 L3.xml
+C:\Principles of Computer Programming\PCP TASK 2 L3\CHAUKE.P PCP TASK2 L3\CHAUKE.P PCP TASK2 L3\obj\Debug\CHAUKE.P PCP TASK2 L3.pdb
+C:\Principles of Computer Programming\PCP TASK 2 L3\CHAUKE.P PCP TASK2 L3\CHAUKE.P PCP TASK2 L3\obj\Debug\CHAUKE.P PCP TASK2 L3.exe.config
