@@ -1,0 +1,13 @@
+C:\CPTASK2\Chauke Prayer TASK 1 CPROG\Chauke Prayer TASK 1 CPROG\bin\Debug\Chauke Prayer TASK 1 CPROG.exe.config
+C:\CPTASK2\Chauke Prayer TASK 1 CPROG\Chauke Prayer TASK 1 CPROG\bin\Debug\Chauke Prayer TASK 1 CPROG.exe
+C:\CPTASK2\Chauke Prayer TASK 1 CPROG\Chauke Prayer TASK 1 CPROG\bin\Debug\Chauke Prayer TASK 1 CPROG.pdb
+C:\CPTASK2\Chauke Prayer TASK 1 CPROG\Chauke Prayer TASK 1 CPROG\bin\Debug\Chauke Prayer TASK 1 CPROG.xml
+C:\CPTASK2\Chauke Prayer TASK 1 CPROG\Chauke Prayer TASK 1 CPROG\obj\Debug\Chauke Prayer TASK 1 CPROG.vbproj.AssemblyReference.cache
+C:\CPTASK2\Chauke Prayer TASK 1 CPROG\Chauke Prayer TASK 1 CPROG\obj\Debug\Chauke_Prayer_TASK_1_CPROG.Form1.resources
+C:\CPTASK2\Chauke Prayer TASK 1 CPROG\Chauke Prayer TASK 1 CPROG\obj\Debug\Chauke_Prayer_TASK_1_CPROG.Resources.resources
+C:\CPTASK2\Chauke Prayer TASK 1 CPROG\Chauke Prayer TASK 1 CPROG\obj\Debug\Chauke Prayer TASK 1 CPROG.vbproj.GenerateResource.cache
+C:\CPTASK2\Chauke Prayer TASK 1 CPROG\Chauke Prayer TASK 1 CPROG\obj\Debug\Chauke Prayer TASK 1 CPROG.vbproj.CoreCompileInputs.cache
+C:\CPTASK2\Chauke Prayer TASK 1 CPROG\Chauke Prayer TASK 1 CPROG\obj\Debug\Chauke Prayer TASK 1 CPROG.exe
+C:\CPTASK2\Chauke Prayer TASK 1 CPROG\Chauke Prayer TASK 1 CPROG\obj\Debug\Chauke Prayer TASK 1 CPROG.xml
+C:\CPTASK2\Chauke Prayer TASK 1 CPROG\Chauke Prayer TASK 1 CPROG\obj\Debug\Chauke Prayer TASK 1 CPROG.pdb
+C:\CPTASK2\Chauke Prayer TASK 1 CPROG\Chauke Prayer TASK 1 CPROG\obj\Debug\Chauke Prayer TASK 1 CPROG.exe.config
